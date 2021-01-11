@@ -1,0 +1,30 @@
+/* ** Footer - Rodapé  */
+
+footer{
+  position:absolute;
+  display:block;
+  bottom:0;
+  height:42px;
+  width:100%;
+  background-color:#f2f2f2;
+  border:1px solid #e4e4e4;
+
+}
+
+#left-bar, #right-bar{
+  display:inline-block;
+  margin-top:8px;
+  margin-bottom:0;
+}
+
+#right-bar{
+  position:absolute;
+  right:0;
+}
+
+h4{
+  position:absolute;
+  right:0;
+  left:43%;
+  top:15px;
+}
